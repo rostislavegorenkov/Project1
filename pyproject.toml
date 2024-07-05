@@ -26,7 +26,7 @@ line-lenth = 119
 exclude = '.git'
 
 [tool.isort]
-line-lenth = 119
+line_lenth = 119
 
 [build-system]
 requires = ["poetry-core"]
